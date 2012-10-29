@@ -8,7 +8,7 @@ Możesz także poprawić kod HTML dowolnego przysłów.
 
 Przysłowia znajdziesz m.in. w Wikipedii:
 
-    http://pl.wikiquote.org/wiki/Przys%C5%82owia_polskie
-    http://pl.wikiquote.org/wiki/Przys%C5%82owia_japo%C5%84skie
-    http://pl.wikiquote.org/wiki/Przys%C5%82owia_chi%C5%84skie
-    http://pl.wikiquote.org/wiki/Przys%C5%82owia_%C5%BCydowskie
+* [http://pl.wikiquote.org/wiki/Przysłowia_polskie](http://pl.wikiquote.org/wiki/Przys%C5%82owia_polskie)
+* [http://pl.wikiquote.org/wiki/Przysłowia_japońskie](http://pl.wikiquote.org/wiki/Przys%C5%82owia_japo%C5%84skie)
+* [http://pl.wikiquote.org/wiki/Przysłowia_chińskie](http://pl.wikiquote.org/wiki/Przys%C5%82owia_chi%C5%84skie)
+* [http://pl.wikiquote.org/wiki/Przysłowia_żydowskie](http://pl.wikiquote.org/wiki/Przys%C5%82owia_%C5%BCydowskie)
