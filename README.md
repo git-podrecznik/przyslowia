@@ -7,9 +7,11 @@ Możesz także poprawić kod HTML dowolnego z przysłów.
 
 Przysłowia znajdziesz m.in. w Wikipedii:
 
+* [http://pl.wikiquote.org/wiki/Przysłowia_arabskie](http://pl.wikiquote.org/wiki/Przysłowia_arabskie)
 * [http://pl.wikiquote.org/wiki/Przysłowia_chińskie](http://pl.wikiquote.org/wiki/Przysłowia_chińskie)
 * [http://pl.wikiquote.org/wiki/Przysłowia_czeskie](http://pl.wikiquote.org/wiki/Przysłowia_czeskie)
 * [http://pl.wikiquote.org/wiki/Przysłowia_francuskie](http://pl.wikiquote.org/wiki/Przysłowia_francuskie)
+* [http://pl.wikiquote.org/wiki/Przysłowia_greckie](http://pl.wikiquote.org/wiki/Przysłowia_greckie)
 * [http://pl.wikiquote.org/wiki/Przysłowia_japońskie](http://pl.wikiquote.org/wiki/Przysłowia_japońskie)
 * [http://pl.wikiquote.org/wiki/Przysłowia_niemieckie](http://pl.wikiquote.org/wiki/Przysłowia_niemieckie)
 * [http://pl.wikiquote.org/wiki/Przysłowia_polskie](http://pl.wikiquote.org/wiki/Przysłowia_polskie)
